@@ -94,15 +94,15 @@ Target Variable:
 
 ## Correlation Heatmap
 
-![Correlation Heatmap](visualizations/correlation_heatmap.png)
+![Correlation Heatmap](visualizations/Correlation_heatmap.png)
 
 ### Feature Importance
 
-![Feature Importance](visualizations/feature_importance.png)
+![Feature Importance](visualizations/Feature_importance.png)
 
 ### Attendance vs CGPA
 
-![Attendance vs CGPA](visualizations/attendance_vs_cgpa.png)
+![Attendance vs CGPA](visualizations/CGPA_vs_Attendance.png)
 
 ---
 
